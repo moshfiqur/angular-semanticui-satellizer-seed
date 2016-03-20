@@ -1,0 +1,1 @@
+# angular-semanticui-satellizer-seed
